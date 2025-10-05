@@ -6,3 +6,4 @@ description = "This is the backend of the TriCTI Package Manager"
 
 [dependencies]
 tricti-http = { version = "0.0.0", features = ["routing"] }
+tricti-git2 = 0.0.0
